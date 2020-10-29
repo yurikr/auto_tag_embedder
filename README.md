@@ -7,5 +7,5 @@ Given a multi-modal embedder network that creates a joint representation between
 1. Get a dataset relevant to the problem statement
 2. Prepare the data to feed into the multi label classifier
 3. Read literature to tackle similar problems
-4. Get started on building the multi lable classifier 
-5. Understand the embedder model for multi modal search
+4. Get started on building the multi label classifier 
+5. Understand the embedder model and several other losses for multi modal search
