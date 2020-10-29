@@ -1,1 +1,1 @@
-
+Given a multi-modal embedder network that creates a joint representation between images and language attributes, allowing word2vec kind of math for product discovery; the aim of the project is to make the attribute addition and subtraction of the query words easier and more user friendly through auto-suggestion tags.
