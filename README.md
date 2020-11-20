@@ -8,6 +8,7 @@ Given a multi-modal embedder network that creates a joint representation between
 2. Collected the iMaterialist Data from kaggle with 228 distinct labels (2000 training images and 500 validation images)
 3. Prepared the data to feed into the multi label classifier
 4. Built a baseline multi label classifier and recorded performance.
+5. Inference
 
 # Next Steps 
 
